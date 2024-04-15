@@ -1,4 +1,4 @@
-export const GamesRouter = () => {
+export const ProductRouter = () => {
   return (
     <>
      
